@@ -1,4 +1,3 @@
-/* eslint-disable operator-linebreak */
 import './App.css'
 
 import { useState } from 'react'

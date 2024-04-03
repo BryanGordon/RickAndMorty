@@ -1,5 +1,3 @@
-/* eslint-disable operator-linebreak */
-/* eslint-disable react/prop-types */
 export function Characters (props) {
   const { characters, setCharacters } = props
 
